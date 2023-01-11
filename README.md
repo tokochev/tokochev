@@ -1,4 +1,4 @@
-### > Music connected us - curltai
+### Music connected us - curltai
 
 <!--
 **vertlyu/vertlyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
