@@ -1,7 +1,8 @@
 
-<div id="header" align="center">
+<p align="center">
 	<h1>Music connected us - curltai</h1>
-</div>
+</p>
+
 #
 
 ### 🧰 Languages and Tools
