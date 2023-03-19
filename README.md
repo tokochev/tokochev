@@ -1,6 +1,6 @@
 
 <p align="center">
-	<h1>Music connected us - curltai</h1>
+	<h1>Volume (L:)</h1>
 </p>
 
 #
